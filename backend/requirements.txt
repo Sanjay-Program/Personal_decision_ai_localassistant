@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+llama-cpp-python
+faiss-cpu
+sentence-transformers
+psutil
+huggingface-hub
+imap-tools
+python-dotenv
+pydantic
+pydantic-settings

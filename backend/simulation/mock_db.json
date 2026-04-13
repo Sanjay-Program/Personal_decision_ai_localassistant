@@ -1,0 +1,2617 @@
+{
+  "mail": [
+    {
+      "timestamp": "2026-03-14T14:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-15T11:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-15T11:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-15T06:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-16T10:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-16T13:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-17T07:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-18T08:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-19T13:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-19T06:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-20T06:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-20T11:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-21T15:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-22T06:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-23T12:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-23T08:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-23T07:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-24T14:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-24T08:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-25T08:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-25T12:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-25T12:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-26T12:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-26T10:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-27T11:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-27T13:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-27T09:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-28T06:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-28T10:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-28T10:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-29T11:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-30T08:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-31T10:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-31T09:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-03-31T10:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-01T11:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-01T15:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-02T07:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-02T08:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-02T10:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-03T07:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-03T14:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-03T08:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-04T07:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-05T12:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-05T15:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-05T07:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-06T09:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-06T14:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-06T09:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Your Order is Out for Delivery",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-07T11:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-07T06:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-08T15:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-08T15:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-08T14:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-09T11:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-09T10:26:29.783605",
+      "sender": "Travel Booking",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-10T06:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-10T15:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-10T10:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-11T10:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-11T14:26:29.783605",
+      "sender": "Family Group",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-12T15:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-12T09:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-12T07:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Weekend Trip Details",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-13T12:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-13T08:26:29.783605",
+      "sender": "HR @ TechCorp",
+      "subject": "Flight Confirmation - AI901",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    },
+    {
+      "timestamp": "2026-04-13T08:26:29.783605",
+      "sender": "Amazon India",
+      "subject": "Q4 Performance Review",
+      "snippet": "Detailed content regarding the subject line for local model to parse..."
+    }
+  ],
+  "whatsapp": [
+    {
+      "timestamp": "2026-03-14T12:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-14T18:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-14T12:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-14T12:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-14T15:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-14T19:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-14T17:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-14T12:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-14T09:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-14T15:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-15T06:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-15T18:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-15T09:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-15T17:26:29.783605",
+      "sender": "Rohan",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-15T07:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-15T08:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-16T17:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-16T11:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-16T15:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-16T08:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-16T09:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-16T11:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-16T09:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-16T12:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-17T09:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-17T05:26:29.783605",
+      "sender": "Rohan",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-17T08:26:29.783605",
+      "sender": "Rohan",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-17T10:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-17T19:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-17T18:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-17T13:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-17T07:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-17T12:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-17T06:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-18T10:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-18T15:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-18T15:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-18T08:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-18T14:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-18T07:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-18T14:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-18T19:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-18T12:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-18T19:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-19T15:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-19T14:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-19T13:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-19T17:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-19T09:26:29.783605",
+      "sender": "Rohan",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-19T13:26:29.783605",
+      "sender": "Rohan",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-19T09:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-19T15:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-19T10:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-20T14:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-20T10:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-20T16:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-20T06:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-20T09:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-20T10:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-20T15:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-20T17:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-20T10:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-20T14:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-21T07:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-21T18:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-21T19:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-21T14:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-21T19:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-21T11:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-21T07:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-21T15:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-21T18:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-22T07:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-22T12:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-22T11:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-22T18:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-22T08:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-22T18:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-22T16:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-22T10:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-22T17:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-23T16:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-23T17:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-23T10:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-23T18:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-23T15:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-23T15:26:29.783605",
+      "sender": "Rohan",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-24T15:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-24T06:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-24T08:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-24T19:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-24T17:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-24T13:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-24T13:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-25T16:26:29.783605",
+      "sender": "Rohan",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-25T10:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-25T16:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-25T08:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-25T13:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-25T09:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-25T11:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-25T10:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-25T12:26:29.783605",
+      "sender": "Rohan",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-25T13:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-26T15:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-26T14:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-26T05:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-26T18:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-26T15:26:29.783605",
+      "sender": "Rohan",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-26T19:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-26T16:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-26T17:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-26T10:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-26T18:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-27T14:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-27T17:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-27T06:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-27T13:26:29.783605",
+      "sender": "Rohan",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-27T10:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-27T07:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-27T07:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-27T18:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-28T13:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-28T17:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-28T12:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-28T17:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-28T14:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-29T12:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-29T14:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-29T09:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-29T07:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-29T05:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-29T18:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-29T09:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-29T11:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-29T18:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-30T06:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-30T17:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-30T05:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-30T06:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-30T11:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-03-30T13:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-03-30T09:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-30T19:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-30T06:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-31T19:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-31T18:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-03-31T06:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-03-31T09:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-03-31T09:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-01T14:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-01T10:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-01T14:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-01T10:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-01T18:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-01T11:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-01T05:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-01T08:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-01T09:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-02T12:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-02T13:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-02T17:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-02T07:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-02T09:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-02T15:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-02T14:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-02T08:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-02T07:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-03T09:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-03T05:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-03T09:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-03T12:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-03T12:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-03T07:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-03T18:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-03T16:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-04T07:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-04T05:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-04T07:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-04T18:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-04T16:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-04T15:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-04T11:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-04T18:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-05T18:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-05T16:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-05T06:26:29.783605",
+      "sender": "Mom",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-05T09:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-05T07:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-05T15:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-05T05:26:29.783605",
+      "sender": "Rohan",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-05T08:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-06T07:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-06T18:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-06T05:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-06T12:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-06T15:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-06T09:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-06T06:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-07T06:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-07T14:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-07T07:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-07T17:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-07T07:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-08T07:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-08T19:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-08T18:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-08T14:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-08T08:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-08T06:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-09T07:26:29.783605",
+      "sender": "Rohan",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-09T19:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-09T10:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-09T12:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-09T06:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-09T09:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-09T12:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-10T12:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-10T07:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-10T13:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-10T19:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-10T14:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-10T14:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-10T18:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-10T09:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-11T11:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-11T16:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-11T05:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-11T11:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-11T08:26:29.783605",
+      "sender": "Mom",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-11T14:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-12T16:26:29.783605",
+      "sender": "Mom",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-12T07:26:29.783605",
+      "sender": "Rohan",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-12T08:26:29.783605",
+      "sender": "Rohan",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-12T05:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-12T06:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-12T15:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-12T08:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-12T05:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-12T08:26:29.783605",
+      "sender": "Rohan",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-13T11:26:29.783605",
+      "sender": "Project Alpha Group",
+      "text": "Did you check the PR?"
+    },
+    {
+      "timestamp": "2026-04-13T14:26:29.783605",
+      "sender": "Mom",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-13T05:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Bro, check the news"
+    },
+    {
+      "timestamp": "2026-04-13T10:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-13T18:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-13T11:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    },
+    {
+      "timestamp": "2026-04-13T19:26:29.783605",
+      "sender": "Mom",
+      "text": "Food is on the way"
+    },
+    {
+      "timestamp": "2026-04-13T15:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Are you coming for dinner?"
+    },
+    {
+      "timestamp": "2026-04-13T19:26:29.783605",
+      "sender": "Swiggy",
+      "text": "Send the files"
+    }
+  ],
+  "facebook": [],
+  "sms": [],
+  "finance": [
+    {
+      "timestamp": "2026-03-14T16:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 4989,
+      "merchant": "Airtel Bill",
+      "balance_after": 40011
+    },
+    {
+      "timestamp": "2026-03-14T17:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 132,
+      "merchant": "Airtel Bill",
+      "balance_after": 44868
+    },
+    {
+      "timestamp": "2026-03-15T16:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 2871,
+      "merchant": "Zomato",
+      "balance_after": 42129
+    },
+    {
+      "timestamp": "2026-03-15T09:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 2916,
+      "merchant": "Airtel Bill",
+      "balance_after": 42084
+    },
+    {
+      "timestamp": "2026-03-15T08:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 2825,
+      "merchant": "Shell Petrol",
+      "balance_after": 42175
+    },
+    {
+      "timestamp": "2026-03-15T17:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1014,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43986
+    },
+    {
+      "timestamp": "2026-03-15T13:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 2009,
+      "merchant": "Airtel Bill",
+      "balance_after": 42991
+    },
+    {
+      "timestamp": "2026-03-16T10:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 4214,
+      "merchant": "Starbucks",
+      "balance_after": 40786
+    },
+    {
+      "timestamp": "2026-03-16T14:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 3929,
+      "merchant": "Shell Petrol",
+      "balance_after": 41071
+    },
+    {
+      "timestamp": "2026-03-16T16:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 608,
+      "merchant": "Shell Petrol",
+      "balance_after": 44392
+    },
+    {
+      "timestamp": "2026-03-17T14:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 3076,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 41924
+    },
+    {
+      "timestamp": "2026-03-17T07:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 1732,
+      "merchant": "Shell Petrol",
+      "balance_after": 43268
+    },
+    {
+      "timestamp": "2026-03-17T16:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 250,
+      "merchant": "Zomato",
+      "balance_after": 44750
+    },
+    {
+      "timestamp": "2026-03-17T07:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 1907,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43093
+    },
+    {
+      "timestamp": "2026-03-18T15:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 418,
+      "merchant": "Starbucks",
+      "balance_after": 44582
+    },
+    {
+      "timestamp": "2026-03-18T07:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1262,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43738
+    },
+    {
+      "timestamp": "2026-03-18T14:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 957,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 44043
+    },
+    {
+      "timestamp": "2026-03-19T09:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 4572,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 40428
+    },
+    {
+      "timestamp": "2026-03-19T08:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 3234,
+      "merchant": "Airtel Bill",
+      "balance_after": 41766
+    },
+    {
+      "timestamp": "2026-03-19T12:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1200,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43800
+    },
+    {
+      "timestamp": "2026-03-20T13:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 1922,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43078
+    },
+    {
+      "timestamp": "2026-03-20T12:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 4438,
+      "merchant": "Starbucks",
+      "balance_after": 40562
+    },
+    {
+      "timestamp": "2026-03-21T15:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 1715,
+      "merchant": "Starbucks",
+      "balance_after": 43285
+    },
+    {
+      "timestamp": "2026-03-21T08:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 4931,
+      "merchant": "Zomato",
+      "balance_after": 40069
+    },
+    {
+      "timestamp": "2026-03-21T11:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 4809,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 40191
+    },
+    {
+      "timestamp": "2026-03-21T08:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 3884,
+      "merchant": "Zomato",
+      "balance_after": 41116
+    },
+    {
+      "timestamp": "2026-03-22T11:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1155,
+      "merchant": "Starbucks",
+      "balance_after": 43845
+    },
+    {
+      "timestamp": "2026-03-22T12:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 381,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 44619
+    },
+    {
+      "timestamp": "2026-03-22T14:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 939,
+      "merchant": "Starbucks",
+      "balance_after": 44061
+    },
+    {
+      "timestamp": "2026-03-23T17:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 2904,
+      "merchant": "Airtel Bill",
+      "balance_after": 42096
+    },
+    {
+      "timestamp": "2026-03-23T10:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 4849,
+      "merchant": "Airtel Bill",
+      "balance_after": 40151
+    },
+    {
+      "timestamp": "2026-03-23T16:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 3064,
+      "merchant": "Zomato",
+      "balance_after": 41936
+    },
+    {
+      "timestamp": "2026-03-24T08:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 3655,
+      "merchant": "Shell Petrol",
+      "balance_after": 41345
+    },
+    {
+      "timestamp": "2026-03-24T14:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1986,
+      "merchant": "Zomato",
+      "balance_after": 43014
+    },
+    {
+      "timestamp": "2026-03-25T13:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 3071,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 41929
+    },
+    {
+      "timestamp": "2026-03-25T12:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 850,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 44150
+    },
+    {
+      "timestamp": "2026-03-25T13:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 190,
+      "merchant": "Shell Petrol",
+      "balance_after": 44810
+    },
+    {
+      "timestamp": "2026-03-25T08:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 2276,
+      "merchant": "Zomato",
+      "balance_after": 42724
+    },
+    {
+      "timestamp": "2026-03-25T08:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 2636,
+      "merchant": "Airtel Bill",
+      "balance_after": 42364
+    },
+    {
+      "timestamp": "2026-03-26T12:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 3314,
+      "merchant": "Starbucks",
+      "balance_after": 41686
+    },
+    {
+      "timestamp": "2026-03-26T16:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 1026,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43974
+    },
+    {
+      "timestamp": "2026-03-26T12:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 3774,
+      "merchant": "Shell Petrol",
+      "balance_after": 41226
+    },
+    {
+      "timestamp": "2026-03-26T17:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 3305,
+      "merchant": "Zomato",
+      "balance_after": 41695
+    },
+    {
+      "timestamp": "2026-03-26T15:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 4178,
+      "merchant": "Starbucks",
+      "balance_after": 40822
+    },
+    {
+      "timestamp": "2026-03-27T16:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 473,
+      "merchant": "Shell Petrol",
+      "balance_after": 44527
+    },
+    {
+      "timestamp": "2026-03-27T13:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 4010,
+      "merchant": "Zomato",
+      "balance_after": 40990
+    },
+    {
+      "timestamp": "2026-03-27T15:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 1351,
+      "merchant": "Shell Petrol",
+      "balance_after": 43649
+    },
+    {
+      "timestamp": "2026-03-27T15:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1453,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43547
+    },
+    {
+      "timestamp": "2026-03-27T16:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 1328,
+      "merchant": "Zomato",
+      "balance_after": 43672
+    },
+    {
+      "timestamp": "2026-03-28T12:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 4632,
+      "merchant": "Airtel Bill",
+      "balance_after": 40368
+    },
+    {
+      "timestamp": "2026-03-28T09:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 983,
+      "merchant": "Airtel Bill",
+      "balance_after": 44017
+    },
+    {
+      "timestamp": "2026-03-29T08:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 3416,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 41584
+    },
+    {
+      "timestamp": "2026-03-29T08:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 350,
+      "merchant": "Airtel Bill",
+      "balance_after": 44650
+    },
+    {
+      "timestamp": "2026-03-30T09:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 4310,
+      "merchant": "Shell Petrol",
+      "balance_after": 40690
+    },
+    {
+      "timestamp": "2026-03-30T11:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 2856,
+      "merchant": "Starbucks",
+      "balance_after": 42144
+    },
+    {
+      "timestamp": "2026-03-30T17:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1265,
+      "merchant": "Zomato",
+      "balance_after": 43735
+    },
+    {
+      "timestamp": "2026-03-31T09:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 2873,
+      "merchant": "Starbucks",
+      "balance_after": 42127
+    },
+    {
+      "timestamp": "2026-03-31T17:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 535,
+      "merchant": "Shell Petrol",
+      "balance_after": 44465
+    },
+    {
+      "timestamp": "2026-03-31T08:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 2992,
+      "merchant": "Starbucks",
+      "balance_after": 42008
+    },
+    {
+      "timestamp": "2026-03-31T17:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 4614,
+      "merchant": "Starbucks",
+      "balance_after": 40386
+    },
+    {
+      "timestamp": "2026-03-31T10:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 4448,
+      "merchant": "Airtel Bill",
+      "balance_after": 40552
+    },
+    {
+      "timestamp": "2026-04-01T17:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 110,
+      "merchant": "Starbucks",
+      "balance_after": 44890
+    },
+    {
+      "timestamp": "2026-04-01T10:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 2480,
+      "merchant": "Starbucks",
+      "balance_after": 42520
+    },
+    {
+      "timestamp": "2026-04-01T07:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 3886,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 41114
+    },
+    {
+      "timestamp": "2026-04-01T15:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 3386,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 41614
+    },
+    {
+      "timestamp": "2026-04-02T16:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 1839,
+      "merchant": "Zomato",
+      "balance_after": 43161
+    },
+    {
+      "timestamp": "2026-04-02T08:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 309,
+      "merchant": "Airtel Bill",
+      "balance_after": 44691
+    },
+    {
+      "timestamp": "2026-04-02T17:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 3588,
+      "merchant": "Starbucks",
+      "balance_after": 41412
+    },
+    {
+      "timestamp": "2026-04-02T10:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 2917,
+      "merchant": "Shell Petrol",
+      "balance_after": 42083
+    },
+    {
+      "timestamp": "2026-04-02T08:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 4215,
+      "merchant": "Starbucks",
+      "balance_after": 40785
+    },
+    {
+      "timestamp": "2026-04-03T10:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 1453,
+      "merchant": "Starbucks",
+      "balance_after": 43547
+    },
+    {
+      "timestamp": "2026-04-03T17:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 4704,
+      "merchant": "Shell Petrol",
+      "balance_after": 40296
+    },
+    {
+      "timestamp": "2026-04-03T12:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1050,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43950
+    },
+    {
+      "timestamp": "2026-04-04T15:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 2334,
+      "merchant": "Shell Petrol",
+      "balance_after": 42666
+    },
+    {
+      "timestamp": "2026-04-04T17:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 2790,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 42210
+    },
+    {
+      "timestamp": "2026-04-05T15:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 1910,
+      "merchant": "Zomato",
+      "balance_after": 43090
+    },
+    {
+      "timestamp": "2026-04-05T09:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 4378,
+      "merchant": "Shell Petrol",
+      "balance_after": 40622
+    },
+    {
+      "timestamp": "2026-04-05T16:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1599,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43401
+    },
+    {
+      "timestamp": "2026-04-05T16:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 2156,
+      "merchant": "Starbucks",
+      "balance_after": 42844
+    },
+    {
+      "timestamp": "2026-04-06T10:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 1246,
+      "merchant": "Shell Petrol",
+      "balance_after": 43754
+    },
+    {
+      "timestamp": "2026-04-06T13:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 3932,
+      "merchant": "Shell Petrol",
+      "balance_after": 41068
+    },
+    {
+      "timestamp": "2026-04-07T17:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 4947,
+      "merchant": "Airtel Bill",
+      "balance_after": 40053
+    },
+    {
+      "timestamp": "2026-04-07T09:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 2585,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 42415
+    },
+    {
+      "timestamp": "2026-04-07T10:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 733,
+      "merchant": "Airtel Bill",
+      "balance_after": 44267
+    },
+    {
+      "timestamp": "2026-04-07T07:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 2950,
+      "merchant": "Zomato",
+      "balance_after": 42050
+    },
+    {
+      "timestamp": "2026-04-08T09:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 3992,
+      "merchant": "Starbucks",
+      "balance_after": 41008
+    },
+    {
+      "timestamp": "2026-04-08T12:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 2667,
+      "merchant": "Shell Petrol",
+      "balance_after": 42333
+    },
+    {
+      "timestamp": "2026-04-08T15:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 774,
+      "merchant": "Starbucks",
+      "balance_after": 44226
+    },
+    {
+      "timestamp": "2026-04-08T15:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 683,
+      "merchant": "Shell Petrol",
+      "balance_after": 44317
+    },
+    {
+      "timestamp": "2026-04-08T14:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 803,
+      "merchant": "Airtel Bill",
+      "balance_after": 44197
+    },
+    {
+      "timestamp": "2026-04-09T16:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 419,
+      "merchant": "Shell Petrol",
+      "balance_after": 44581
+    },
+    {
+      "timestamp": "2026-04-09T12:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 4720,
+      "merchant": "Airtel Bill",
+      "balance_after": 40280
+    },
+    {
+      "timestamp": "2026-04-09T14:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 2484,
+      "merchant": "Starbucks",
+      "balance_after": 42516
+    },
+    {
+      "timestamp": "2026-04-10T12:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 4955,
+      "merchant": "Starbucks",
+      "balance_after": 40045
+    },
+    {
+      "timestamp": "2026-04-10T16:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 3033,
+      "merchant": "Starbucks",
+      "balance_after": 41967
+    },
+    {
+      "timestamp": "2026-04-11T16:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 1432,
+      "merchant": "Starbucks",
+      "balance_after": 43568
+    },
+    {
+      "timestamp": "2026-04-11T11:26:29.783605",
+      "type": "UPI_DEBIT",
+      "amount": 3817,
+      "merchant": "Airtel Bill",
+      "balance_after": 41183
+    },
+    {
+      "timestamp": "2026-04-11T11:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 2279,
+      "merchant": "Shell Petrol",
+      "balance_after": 42721
+    },
+    {
+      "timestamp": "2026-04-12T16:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 4603,
+      "merchant": "Airtel Bill",
+      "balance_after": 40397
+    },
+    {
+      "timestamp": "2026-04-12T14:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 3589,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 41411
+    },
+    {
+      "timestamp": "2026-04-12T07:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 1984,
+      "merchant": "Airtel Bill",
+      "balance_after": 43016
+    },
+    {
+      "timestamp": "2026-04-12T09:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 1021,
+      "merchant": "Starbucks",
+      "balance_after": 43979
+    },
+    {
+      "timestamp": "2026-04-13T11:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 251,
+      "merchant": "Shell Petrol",
+      "balance_after": 44749
+    },
+    {
+      "timestamp": "2026-04-13T17:26:29.783605",
+      "type": "CARD_PAYMENT",
+      "amount": 1758,
+      "merchant": "HDFC Credit Card",
+      "balance_after": 43242
+    },
+    {
+      "timestamp": "2026-04-13T16:26:29.783605",
+      "type": "BANK_TRANSFER",
+      "amount": 2861,
+      "merchant": "Shell Petrol",
+      "balance_after": 42139
+    }
+  ],
+  "fitness": [
+    {
+      "date": "2026-03-13",
+      "steps": 3583,
+      "heart_rate_avg": 82,
+      "sleep_hours": 5.6,
+      "calories_burned": 1987
+    },
+    {
+      "date": "2026-03-14",
+      "steps": 10832,
+      "heart_rate_avg": 84,
+      "sleep_hours": 6.8,
+      "calories_burned": 2726
+    },
+    {
+      "date": "2026-03-15",
+      "steps": 5162,
+      "heart_rate_avg": 67,
+      "sleep_hours": 7.3,
+      "calories_burned": 1840
+    },
+    {
+      "date": "2026-03-16",
+      "steps": 3729,
+      "heart_rate_avg": 70,
+      "sleep_hours": 6.9,
+      "calories_burned": 2417
+    },
+    {
+      "date": "2026-03-17",
+      "steps": 7728,
+      "heart_rate_avg": 80,
+      "sleep_hours": 7.3,
+      "calories_burned": 1807
+    },
+    {
+      "date": "2026-03-18",
+      "steps": 5057,
+      "heart_rate_avg": 84,
+      "sleep_hours": 7.2,
+      "calories_burned": 2157
+    },
+    {
+      "date": "2026-03-19",
+      "steps": 3094,
+      "heart_rate_avg": 78,
+      "sleep_hours": 6.2,
+      "calories_burned": 2577
+    },
+    {
+      "date": "2026-03-20",
+      "steps": 6438,
+      "heart_rate_avg": 67,
+      "sleep_hours": 5.8,
+      "calories_burned": 2604
+    },
+    {
+      "date": "2026-03-21",
+      "steps": 4363,
+      "heart_rate_avg": 84,
+      "sleep_hours": 7.9,
+      "calories_burned": 2031
+    },
+    {
+      "date": "2026-03-22",
+      "steps": 4304,
+      "heart_rate_avg": 83,
+      "sleep_hours": 6.9,
+      "calories_burned": 1811
+    },
+    {
+      "date": "2026-03-23",
+      "steps": 11433,
+      "heart_rate_avg": 81,
+      "sleep_hours": 7.7,
+      "calories_burned": 1892
+    },
+    {
+      "date": "2026-03-24",
+      "steps": 9886,
+      "heart_rate_avg": 79,
+      "sleep_hours": 7.8,
+      "calories_burned": 1986
+    },
+    {
+      "date": "2026-03-25",
+      "steps": 7552,
+      "heart_rate_avg": 72,
+      "sleep_hours": 7.9,
+      "calories_burned": 2320
+    },
+    {
+      "date": "2026-03-26",
+      "steps": 4722,
+      "heart_rate_avg": 79,
+      "sleep_hours": 7.2,
+      "calories_burned": 2225
+    },
+    {
+      "date": "2026-03-27",
+      "steps": 8276,
+      "heart_rate_avg": 78,
+      "sleep_hours": 6.6,
+      "calories_burned": 2302
+    },
+    {
+      "date": "2026-03-28",
+      "steps": 7606,
+      "heart_rate_avg": 72,
+      "sleep_hours": 6.1,
+      "calories_burned": 2681
+    },
+    {
+      "date": "2026-03-29",
+      "steps": 9267,
+      "heart_rate_avg": 81,
+      "sleep_hours": 6.2,
+      "calories_burned": 1982
+    },
+    {
+      "date": "2026-03-30",
+      "steps": 10657,
+      "heart_rate_avg": 65,
+      "sleep_hours": 8.2,
+      "calories_burned": 2249
+    },
+    {
+      "date": "2026-03-31",
+      "steps": 4857,
+      "heart_rate_avg": 70,
+      "sleep_hours": 8.3,
+      "calories_burned": 2690
+    },
+    {
+      "date": "2026-04-01",
+      "steps": 9080,
+      "heart_rate_avg": 81,
+      "sleep_hours": 7.4,
+      "calories_burned": 2697
+    },
+    {
+      "date": "2026-04-02",
+      "steps": 9958,
+      "heart_rate_avg": 67,
+      "sleep_hours": 6.0,
+      "calories_burned": 2492
+    },
+    {
+      "date": "2026-04-03",
+      "steps": 9321,
+      "heart_rate_avg": 78,
+      "sleep_hours": 6.4,
+      "calories_burned": 1913
+    },
+    {
+      "date": "2026-04-04",
+      "steps": 9279,
+      "heart_rate_avg": 72,
+      "sleep_hours": 6.7,
+      "calories_burned": 1995
+    },
+    {
+      "date": "2026-04-05",
+      "steps": 10160,
+      "heart_rate_avg": 73,
+      "sleep_hours": 5.8,
+      "calories_burned": 1923
+    },
+    {
+      "date": "2026-04-06",
+      "steps": 3306,
+      "heart_rate_avg": 73,
+      "sleep_hours": 6.7,
+      "calories_burned": 2325
+    },
+    {
+      "date": "2026-04-07",
+      "steps": 11512,
+      "heart_rate_avg": 80,
+      "sleep_hours": 7.3,
+      "calories_burned": 2204
+    },
+    {
+      "date": "2026-04-08",
+      "steps": 6242,
+      "heart_rate_avg": 73,
+      "sleep_hours": 5.6,
+      "calories_burned": 1889
+    },
+    {
+      "date": "2026-04-09",
+      "steps": 3127,
+      "heart_rate_avg": 67,
+      "sleep_hours": 6.1,
+      "calories_burned": 2218
+    },
+    {
+      "date": "2026-04-10",
+      "steps": 11709,
+      "heart_rate_avg": 82,
+      "sleep_hours": 6.4,
+      "calories_burned": 2720
+    },
+    {
+      "date": "2026-04-11",
+      "steps": 10129,
+      "heart_rate_avg": 82,
+      "sleep_hours": 6.9,
+      "calories_burned": 2384
+    },
+    {
+      "date": "2026-04-12",
+      "steps": 8893,
+      "heart_rate_avg": 73,
+      "sleep_hours": 6.1,
+      "calories_burned": 2147
+    }
+  ]
+}

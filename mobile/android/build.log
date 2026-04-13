@@ -1,0 +1,77 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by net.rubygrapefruit.platform.internal.NativeLibraryLoader in an unnamed module (file:/home/sanjay/.gradle/wrapper/dists/gradle-8.8-all/6gdy1pgp427xkqcjbxw3ylt6h/gradle-8.8/lib/native-platform-0.22-milestone-26.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Starting a Gradle Daemon, 1 busy and 2 incompatible and 1 stopped Daemons could not be reused, use --status for details
+> Task :gradle-plugin:shared:checkKotlinGradlePluginConfigurationErrors
+> Task :gradle-plugin:react-native-gradle-plugin:checkKotlinGradlePluginConfigurationErrors
+> Task :gradle-plugin:react-native-gradle-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:shared:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:shared:compileJava NO-SOURCE
+> Task :gradle-plugin:shared:processResources NO-SOURCE
+> Task :gradle-plugin:shared:classes UP-TO-DATE
+> Task :gradle-plugin:shared:jar UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:react-native-gradle-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:jar UP-TO-DATE
+> Task :react-native-fs:preBuild UP-TO-DATE
+> Task :react-native-keychain:preBuild UP-TO-DATE
+> Task :llama.rn:preBuild UP-TO-DATE
+> Task :react-native-fs:preReleaseBuild UP-TO-DATE
+> Task :react-native-keychain:preReleaseBuild UP-TO-DATE
+> Task :llama.rn:preReleaseBuild UP-TO-DATE
+> Task :react-native-fs:writeReleaseAarMetadata UP-TO-DATE
+> Task :llama.rn:writeReleaseAarMetadata UP-TO-DATE
+> Task :react-native-keychain:writeReleaseAarMetadata UP-TO-DATE
+> Task :llama.rn:generateReleaseResValues UP-TO-DATE
+> Task :react-native-keychain:generateReleaseResValues UP-TO-DATE
+> Task :react-native-fs:generateReleaseResValues UP-TO-DATE
+> Task :react-native-keychain:generateReleaseResources UP-TO-DATE
+> Task :llama.rn:generateReleaseResources UP-TO-DATE
+> Task :react-native-fs:generateReleaseResources UP-TO-DATE
+> Task :app:generateAutolinkingPackageList SKIPPED
+> Task :app:generateCodegenSchemaFromJavaScript SKIPPED
+> Task :app:generateCodegenArtifactsFromSchema SKIPPED
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preReleaseBuild UP-TO-DATE
+> Task :react-native-fs:packageReleaseResources UP-TO-DATE
+> Task :react-native-keychain:packageReleaseResources UP-TO-DATE
+> Task :llama.rn:packageReleaseResources UP-TO-DATE
+> Task :react-native-keychain:extractDeepLinksRelease UP-TO-DATE
+> Task :llama.rn:extractDeepLinksRelease UP-TO-DATE
+> Task :react-native-fs:extractDeepLinksRelease UP-TO-DATE
+> Task :app:generateReleaseBuildConfig UP-TO-DATE
+> Task :app:javaPreCompileRelease UP-TO-DATE
+> Task :react-native-keychain:processReleaseManifest UP-TO-DATE
+> Task :llama.rn:processReleaseManifest UP-TO-DATE
+> Task :react-native-fs:processReleaseManifest UP-TO-DATE
+> Task :llama.rn:compileReleaseLibraryResources UP-TO-DATE
+> Task :react-native-fs:compileReleaseLibraryResources UP-TO-DATE
+> Task :react-native-keychain:compileReleaseLibraryResources UP-TO-DATE
+> Task :llama.rn:parseReleaseLocalResources UP-TO-DATE
+> Task :react-native-fs:parseReleaseLocalResources UP-TO-DATE
+> Task :react-native-keychain:parseReleaseLocalResources UP-TO-DATE
+> Task :react-native-fs:generateReleaseRFile UP-TO-DATE
+> Task :react-native-keychain:generateReleaseRFile UP-TO-DATE
+> Task :react-native-fs:generateReleaseBuildConfig UP-TO-DATE
+> Task :react-native-keychain:generateReleaseBuildConfig UP-TO-DATE
+> Task :react-native-fs:javaPreCompileRelease UP-TO-DATE
+> Task :react-native-keychain:javaPreCompileRelease UP-TO-DATE
+> Task :llama.rn:generateReleaseBuildConfig UP-TO-DATE
+> Task :llama.rn:javaPreCompileRelease UP-TO-DATE
+> Task :llama.rn:processReleaseJavaRes NO-SOURCE
+> Task :llama.rn:extractProguardFiles UP-TO-DATE
+> Task :llama.rn:prepareLintJarForPublish UP-TO-DATE
+> Task :llama.rn:generateReleaseRFile
+
+> Task :llama.rn:configureCMakeRelWithDebInfo[arm64-v8a]
+Checking the license for package CMake 3.22.1 in /home/sanjay/Android/Sdk/licenses
+License for package CMake 3.22.1 accepted.
+Preparing "Install CMake 3.22.1 v.3.22.1".
+
+> Task :app:checkReleaseAarMetadata
+> Task :react-native-fs:compileReleaseJavaWithJavac
+> Task :react-native-keychain:compileReleaseJavaWithJavac
